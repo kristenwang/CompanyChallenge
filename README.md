@@ -3,7 +3,7 @@ Artifacts for company challenge  <p>
 Company: The Museum of Modern Art   <p>
 Challenge: How might we use messaging apps to engage with our viewers, both on- and off-site? <p>
 
-<h2><strong>Team:</strong></h> <p>
+<h3><strong>Team:</strong></h3> <p>
 Jean-Charles Gasche <p>
 Chuyang Wang <p>
 Liz Weber <p>
